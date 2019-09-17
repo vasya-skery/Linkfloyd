@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{clip-path:url(#clip-path)}.cls-3{fill:#0084b1}
+        </style>
+        <clipPath id="clip-path">
+            <rect id="Rectangle_1147" width="30" height="30" class="cls-1" data-name="Rectangle 1147" rx="7" transform="translate(185 3952)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_4" class="cls-2" data-name="Mask Group 4" transform="translate(-185 -3952)">
+        <g id="linkedin_1_" data-name="linkedin (1)" transform="translate(185 3952)">
+            <path id="Rectangle_1151" d="M0 0h30v30H0z" class="cls-3" data-name="Rectangle 1151"/>
+            <g id="Group_147" data-name="Group 147">
+                <path id="Path_344" d="M7.06 4.556a2.511 2.511 0 1 1-2.528 2.508A2.521 2.521 0 0 1 7.06 4.556z" class="cls-1" data-name="Path 344"/>
+                <path id="Path_345" d="M8.52 25.441H5.576a.692.692 0 0 1-.692-.692V12.19a.692.692 0 0 1 .692-.692H8.52a.692.692 0 0 1 .692.692v12.559a.692.692 0 0 1-.692.692z" class="cls-1" data-name="Path 345"/>
+                <path id="Path_346" d="M25.468 15.91a4.767 4.767 0 0 0-4.768-4.768h-.755a4.241 4.241 0 0 0-3.71 2.19h-.039v-1.547a.287.287 0 0 0-.287-.287h-3.673a.287.287 0 0 0-.287.287v13.369a.287.287 0 0 0 .287.287h3.753a.287.287 0 0 0 .287-.287v-7.723a2.448 2.448 0 0 1 2.4-2.459 2.428 2.428 0 0 1 2.455 2.428v7.755a.287.287 0 0 0 .287.287h3.762a.287.287 0 0 0 .287-.287V15.91z" class="cls-1" data-name="Path 346"/>
+            </g>
+        </g>
+    </g>
+</svg>
