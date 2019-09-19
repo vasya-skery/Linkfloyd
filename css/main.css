@@ -939,7 +939,7 @@ ul.list-style-none {
   box-shadow: 0 3px 30px 0 rgba(0, 50, 49, 0.16);
 }
 
-@media screen and (max-width:1400px) {
+@media screen and (max-width:1550px) {
   .tell_us {
     -ms-background-position-x: 10%;
     background-position-x: 10%;
